@@ -1,0 +1,16 @@
+html {
+  box-sizing: border-box;
+  font-size: 75%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nitti Grotesk', Helvetica, sans-serif;
+}
